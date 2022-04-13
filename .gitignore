@@ -1,7 +1,7 @@
 # OS
 .linfo
 .btsctr
-conf/hostname
+conf/*
 usr/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
